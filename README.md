@@ -1,0 +1,1 @@
+顾名思义这是一个用原生javascript+css3搭建的旋转画廊DEMO
